@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dgjoker0001
 - 👀 I’m interested in web development, machine learning and AI
-- 🌱 I’m currently learning full stack Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
