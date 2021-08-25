@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dgjoker0001
+- 👋 Hi, I’m Kanishk Vats
 - 👀 I’m interested in web development, machine learning and AI
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
