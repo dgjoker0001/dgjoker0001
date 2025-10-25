@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanishk Vats
-- 👀 I’m interested in web development, machine learning and AI
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in java, web development, machine learning and AI
+- 🌱 I’m currently working as Java SDE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
